@@ -13,6 +13,10 @@
     <string name="str_btn_createaccount">Crear cuenta</string>
     <string name="str_tb_tittle">OrganicPlants</string>
 
+    <string name="tipo">Tipo de planta</string>
+
+    <string name="decripcion">Decripcion</string>
+
     <string name="username_card">ORGANIC PLANTS</string>
     <string name="tab_search">Buscar</string>
     <string name="tab_home">Inicio</string>
